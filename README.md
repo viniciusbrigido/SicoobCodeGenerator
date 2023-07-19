@@ -1,4 +1,4 @@
-# Plugin Gerador de API Java Spring - CodeGenerator
+# Plugin Gerador de Código Sicoob - CodeGenerator
 Este plugin é um gerador de código Java para o Sicoob que permite criar as camadas dos objetos de maneira rápida e eficiente. Ele gera automaticamente as entidades, repositórios, serviços, implementações de serviço e repositórios.
 
 ## A definição de entidades segue a seguinte sintaxe de objetos:
