@@ -24,8 +24,8 @@ public class RequestDTO {
           "primaryKey": true
         },
         {
-          "name": "raca",
-          "type": "Raca"
+          "name": "nome",
+          "type": "String"
         }
       ]
     }
